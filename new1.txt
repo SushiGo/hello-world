@@ -1,3 +1,5 @@
 This is new text -1
 Add new line
 Add another line
+
+New line from master 
