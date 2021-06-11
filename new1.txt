@@ -3,3 +3,4 @@ Add new line
 Add another line
 
 New line from master 
+Commit 1 from branch new-feature
